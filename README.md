@@ -2,7 +2,7 @@
 
 I've very excited to find out the new era name, to be revealed before April, as the current emperor abdicates. This is the first time in my lifetime that we can plan ahead. I'm American, and as friends and allies, I thought maybe we could help Japan with the new name.
 
-Timing: https://www.japantimes.co.jp/news/2019/02/03/national/government-present-new-era-name-emperor-crown-prince-april-1/#.XGnvc5OQHUK
+Timing: ["Government to present new era name to Emperor and Crown Prince before April 1" (Japan Times, Feb 3, 2019)](https://www.japantimes.co.jp/news/2019/02/03/national/government-present-new-era-name-emperor-crown-prince-april-1/#.XGnvc5OQHUK)
 
 Rules: https://themonsoonproject.org/2018/10/25/predicting-japans-next-era-name/
 
