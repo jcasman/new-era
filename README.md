@@ -6,7 +6,7 @@ Timing: ["Government to present new era name to Emperor and Crown Prince before 
 
 Rules: ["Predicting Japan’s next era name" (The Monsoon Project, Oct 25, 2018)](https://themonsoonproject.org/2018/10/25/predicting-japans-next-era-name)
 
-List of previous era names: https://en.wikipedia.org/wiki/List_of_Japanese_era_names
+Japanese era names: [Wikipedia: List_of_Japanese_era_names](https://en.wikipedia.org/wiki/List_of_Japanese_era_names)
 
 Please note, I'm confident our ideas will be ignored.
 
