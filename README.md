@@ -22,4 +22,4 @@ Sort of taking all the good information under the Resources section abouve into 
 
 I might work on this some more. But anyone care to add? [Do a PR through GitHub](https://github.com/jcasman/new-era), and I'll merge your ideas into this list.
 
-Please note, I'm, ahem, confident our ideas will be ignored.
+_Please note, I'm, ahem, confident our ideas will be ignored._
