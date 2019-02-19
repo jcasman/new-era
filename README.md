@@ -14,7 +14,7 @@ Instead of just waiting, I wanted to help. It is the first time in my lifetime t
 
 ## My Suggestions
 
-Sort of taking all the good information under the Resources section abouve into account -- and sort of not -- here are my Top 3 suggestions, so far:
+Sort of taking all the good information under the Resources section above into account -- and sort of not -- here are my Top 3 suggestions, so far:
 
 * Yuubun - 優文 - Elegant Learning
 * Kenkaku - 健鶴 - Healthy Crane
