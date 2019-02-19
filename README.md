@@ -20,6 +20,6 @@ Sort of taking all the good information into account and sort of not, here are m
 * Kenkaku - 健鶴 - Healthy Crane
 * Mankoku - 漫国 - Land of Manga
 
-Anyone care to add? Do a PR through GitHub, and I'll merge your ideas into this list.
+Anyone care to add? [Do a PR through GitHub](https://github.com/jcasman/new-era), and I'll merge your ideas into this list.
 
 Please note, I'm, ahem, confident our ideas will be ignored.
