@@ -14,12 +14,12 @@ Instead of just waiting, I wanted to help. It is the first time in my lifetime t
 
 ## My Suggestions
 
-Sort of taking all the good information under the Resources section abouve into account -- and sort of not -- here are my Top 3 suggestions:
+Sort of taking all the good information under the Resources section abouve into account -- and sort of not -- here are my Top 3 suggestions, so far:
 
 * Yuubun - 優文 - Elegant Learning
 * Kenkaku - 健鶴 - Healthy Crane
 * Mankoku - 漫国 - Land of Manga
 
-Anyone care to add? [Do a PR through GitHub](https://github.com/jcasman/new-era), and I'll merge your ideas into this list.
+I might work on this some more. But anyone care to add? [Do a PR through GitHub](https://github.com/jcasman/new-era), and I'll merge your ideas into this list.
 
 Please note, I'm, ahem, confident our ideas will be ignored.
