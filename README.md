@@ -12,9 +12,9 @@ Please note, I'm confident our ideas will be ignored.
 
 Here's my Top 3 suggestions:
 
-Yuubun - 優文 - Elegant Learning
-Kenkaku - 健鶴 - Healthy Crane
-Mankoku - 漫国 - Land of Manga
+* Yuubun - 優文 - Elegant Learning
+* Kenkaku - 健鶴 - Healthy Crane
+* Mankoku - 漫国 - Land of Manga
 
 Anyone care to add? 
 
