@@ -21,5 +21,3 @@ Sort of taking all the good information under the Resources section above into a
 * Mankoku - 漫国 - Land of Manga
 
 Care to add your suggestions to the list? [Do a PR through GitHub](https://github.com/jcasman/new-era), and I'll merge your ideas into this list.
-
-_Please note, I'm, ahem, confident our ideas will be ignored._
