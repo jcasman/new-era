@@ -1,6 +1,6 @@
 ## The New Upcoming Japanese Era Name - What will it be?
 
-I've very excited to find out the new Japanese era name, to be revealed before April. This is a once-in-a-millenium chance, since Japanese emporers rarely abdicate. 
+I've very excited to find out the new Japanese era name, to be revealed before April. This is a once-in-a-millenium chance, since Japanese emperors rarely abdicate. 
 
 Instead of just waiting, I wanted to help. It is the first time in my lifetime that we can plan ahead. I'm American, and as good friends and allies, I thought maybe we could offer Japan a suggestion or two for the new name. 
 
